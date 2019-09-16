@@ -1,0 +1,10 @@
+{
+  "name": "google-map-crawl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^5.4.3",
+    "puppeteer": "^1.19.0"
+  }
+}
